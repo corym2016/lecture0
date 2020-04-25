@@ -8,6 +8,10 @@ h3 {
   text-align: center;
 }
 
+a {
+  text-align: center;
+}
+
 img {
   display: block;
   margin-left: auto;
@@ -23,7 +27,8 @@ table {
   border: 2px solid black;
   border-collapse: collapse;
   width: 50%;
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 th, td {
@@ -36,6 +41,6 @@ th {
   background-color: lightgray;
 }
 
-li {
+ul {
   text-align: center;
 }
