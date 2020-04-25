@@ -50,6 +50,6 @@ ol {
 }
 
 .bold {
-    font-weight: bold;
-    color: black;
+    font-weight: bold !important;
+    color: black !important;
 }
